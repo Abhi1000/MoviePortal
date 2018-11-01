@@ -1,0 +1,14 @@
+@media all and (min-width: 480px) {
+    .Dashboard {
+      padding: 20px 0;
+      width: 385px;
+      padding-left: 30%
+    }
+    h2{
+        color: darkcyan;
+        text-align: center
+    }
+    li {color:gray}
+    li a{color:darkorange}
+  }
+  
